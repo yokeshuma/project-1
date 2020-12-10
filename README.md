@@ -1,2 +1,3 @@
 # project-1
- How much do you know me quiz 
+# How well do you know me quiz 
+This app is developed by Yokesh. This app is to evaluate how well do you know me.
