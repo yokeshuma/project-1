@@ -1,3 +1,4 @@
 # project-1
-# How well do you know me quiz 
-This app is developed by Yokesh. This app is to evaluate how well do you know me.
+# A CLI App built using Javascript and npm package on "How well do you know me quiz?"
+## Packages Used
+1. readline-sync
